@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "491503755352",
+    "project_id": "la-la-films-m0dyom",
+    "storage_bucket": "la-la-films-m0dyom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491503755352:android:66b9d79e95c58af2582a2d",
+        "android_client_info": {
+          "package_name": "com.mycompany.lalafilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491503755352-agkvubhkpgiinjshte89lu8ra9ptnrh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.lalafilms",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "491503755352-eagqv6ug0f55bfckak9qsg8chlpg3i6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7XtGCqk4mvG1Vj_9Q0tP1KziMS4nP8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491503755352-eagqv6ug0f55bfckak9qsg8chlpg3i6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491503755352-4mk46n2l7vrdoil2c0cp46a0a6quks3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.lalafilms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
